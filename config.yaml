@@ -2,11 +2,7 @@ categories: ["cs.CV", "cs.LG", "cs.AI"]
 keywords:
   - "flim"
   - "Super-resolution"
-  - "open vocabulary segmentation"
-  - "open-vocabulary segmentation"
-  - "vision language model"
-  - "training-free"
-  - "training free"
+
 
 # exclude_keywords: # 选择排除的关键词
 #   - "Large Language Model"
