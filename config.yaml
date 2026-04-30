@@ -1,7 +1,7 @@
 categories: ["cs.CV", "cs.LG", "cs.AI"]
 keywords:
-  - "open vocabulary"
-  - "open-vocabulary"
+  - "flim"
+  - "Super-resolution"
   - "open vocabulary segmentation"
   - "open-vocabulary segmentation"
   - "vision language model"
@@ -49,9 +49,9 @@ llm:
   model: "Qwen/Qwen2.5-7B-Instruct"
   api_key_env: "OPENAI_COMPAT_API_KEY"
   # Deepseek的版本
-  # base_url: "https://api.deepseek.com"
-  # model: "deepseek-chat"
-  # api_key_env: "DS_API_KEY"
+  base_url: "https://api.deepseek.com"
+  model: "deepseek-chat"
+  api_key_env: "sk-fcdb0050574943ee97c69633a009b438"
   
 
   system_prompt_en: |
